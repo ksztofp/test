@@ -12,19 +12,13 @@ To create the token interface, which can be reuse from project to project. The c
 
 This library may be a part of text processing or secure components. It will be also applicable as a usefull string library.
 
-<br>    
-
 ### Documentation
 
 Are you interested in more details? [Here's the complete documentation of API](https://krzysiekpiasecki.github.io/Token/api/index.html).
 
-<br>
-
 ### Install
 
 Token is distributed via [Composer](https://getcomposer.org) and [Packagist](https://packagist.org/packages/krzysiekpiasecki/token).
-
-<br>
 
 ### Credits
 
